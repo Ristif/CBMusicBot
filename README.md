@@ -24,7 +24,7 @@
 
 🧪 Get STRING_SESSION from below:
 
-TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Arya01/PyrogramMusicString#main.py)
+TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@rishadris0/PyrogramMusicString#main.py)
 
 🎖 History
 - [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/aryazakaria01/CBMusicBot)
